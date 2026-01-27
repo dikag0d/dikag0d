@@ -7,27 +7,25 @@ on:
   
   # Allow manual trigger
   workflow_dispatch:
-  
-  # Run on push to main
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
+    permissions:
+      contents: write
+    
     steps:
       # Generate snake animation
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: dikag0d
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif?color_snake=green&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # Push to output branch
       - name: Push to output branch
@@ -35,5 +33,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
