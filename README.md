@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Andika%20Nugraha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IoT%20Developer%20|%20Flutter%20Enthusiast%20|%20Full%20Stack%20Explorer&descAlignY=52&descSize=18"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Halo!+Saya+Andika+dari+Sidoarjo;%F0%9F%92%BB+Ingin+Menjadi+Programmer+Handal;%F0%9F%9A%80+Tapi+Kadang+Enggan+Ngoding+%F0%9F%98%85" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Halo!+aku+dika;%F0%9F%92%BB+Malas+Mengkoding+;%F0%9F%9A%80+%F0%9F%98%85" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -30,7 +30,7 @@
 name: Andika Nugraha
 location: Sidoarjo, Jawa Timur, Indonesia 🇮🇩
 current_focus: IoT Development & Mobile Apps
-education: Pelajar / Mahasiswa
+education: Computer Engginering - PENS 
 
 interests:
   - 🔌 Internet of Things (ESP32, Arduino)
@@ -43,8 +43,7 @@ hobbies:
   - 🎵 Listening to Music
   - 📚 Learning New Technologies
   
-fun_fact: "Ingin Menjadi Programmer Handal,
-           Namun Enggan Ngoding 😅"
+fun_fact: "Malas Mengkoding"
 ```
 
 <br clear="both"/>
