@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="assets/profile_visual.png">
+<img align="right" alt="Coding" width="400" src="assets/good-night.gif">
 
 ```yaml
 name: Andika Nugraha
