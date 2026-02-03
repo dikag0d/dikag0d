@@ -171,11 +171,19 @@ fun_fact: "Malas Mengkoding"
 
 ---
 
-## 🎵 Spotify Playing
+## 🎵 Now Playing
 
 <div align="center">
 
-[![Spotify](https://novatorem-dikag0d.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/your-spotify-id)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT)
+
+### 🎧 Roman Underground - MORFEM
+
+<a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a2a4efc2c847f43945e1e06d" width="200" alt="MORFEM"/>
+</a>
+
+*"Music is the soundtrack of your life"* 🎶
 
 </div>
 
