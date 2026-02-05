@@ -36,7 +36,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="assets/good-night.gif">
 
 ```js
 const andika = {
@@ -137,17 +137,17 @@ const andika = {
 <div align="center">
 
 <a href="https://github.com/dikag0d/darjoconnect">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=darjoconnect&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=darjoconnect&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b&show_owner=true" />
 </a>
 <a href="https://github.com/dikag0d/smartdoorlock">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=smartdoorlock&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=smartdoorlock&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b&show_owner=true" />
 </a>
 
 <a href="https://github.com/dikag0d/esp32-project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=esp32-project&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=esp32-project&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b&show_owner=true" />
 </a>
 <a href="https://github.com/dikag0d/waterflow">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=waterflow&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=waterflow&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b&show_owner=true" />
 </a>
 
 </div>
