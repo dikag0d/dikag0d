@@ -1,143 +1,161 @@
 <div align="center">
   
-<!-- HEADER GIF -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Andika%20Nugraha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IoT%20Developer%20|%20Flutter%20Enthusiast%20|%20Full%20Stack%20Explorer&descAlignY=52&descSize=18"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Andika%20Nugraha&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=⚡%20IoT%20Developer%20•%20Flutter%20Enthusiast%20•%20Full%20Stack%20Explorer%20⚡&descAlignY=55&descSize=16"/>
 
-<!-- TYPING SVG -->
+<!-- ANIMATED TEXT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=650&height=110&lines=%F0%9F%91%8B+Hi%2C+I%27m+Andika+Nugraha;%F0%9F%92%BB+Computer+Engineering;%F0%9F%9A%80+Politeknik+Elektronika+Negeri+Surabaya" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%3C%2F%3E+Welcome+to+My+Digital+Space+%3C%2F%3E;%F0%9F%8E%AF+Building+the+Future+with+Code+%F0%9F%8E%AF;%F0%9F%94%A5+Computer+Engineering+%40+PENS+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
+<br/>
 
+<!-- ANIMATED BADGES -->
+<img src="https://img.shields.io/badge/Focus-IoT%20%26%20Embedded-00d4ff?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Lives-Sidoarjo,%20Indonesia-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Status-Hacking%20the%20Future-00ff88?style=for-the-badge&logo=matrix&logoColor=white&labelColor=1a1b27"/>
+
+<br/><br/>
+
+<!-- SOCIAL BADGES WITH ANIMATION -->
+<a href="https://www.instagram.com/shuuu.3gp/"><img src="https://img.shields.io/badge/-@shuuu.3gp-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27"/></a>
+<a href="https://github.com/dikag0d"><img src="https://img.shields.io/badge/-dikag0d-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/></a>
+<a href="mailto:andikanugraha@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
+<a href="https://wa.me/62"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b27"/></a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shuuu.3gp/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dikag0d)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-<br/>
-
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=dikag0d&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="dikag0d" />
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=dikag0d&label=PROFILE+VIEWS&color=00d4ff&style=flat-square&abbreviated=true" alt="dikag0d" />
+<a href="https://github.com/dikag0d?tab=followers"><img src="https://img.shields.io/github/followers/dikag0d?label=Followers&style=flat-square&color=ff6b6b&labelColor=1a1b27"/></a>
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🧑‍💻 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="400" src="assets/good-night.gif">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```yaml
-name: Andika Nugraha
-location: Sidoarjo, Jawa Timur, Indonesia 🇮🇩
-current_focus: IoT Development & Mobile Apps
-education: Computer Engginering - PENS 
-
-interests:
-  - 🔌 Internet of Things (ESP32, Arduino)
-  - 📱 Mobile Development (Flutter)
-  - 🌐 Web Development (PHP, JavaScript)
-  - 🤖 Automation & Smart Systems
-  
-hobbies:
-  - 🎮 Gaming
-  - 🎵 Listening to Music
-  - 📚 Learning New Technologies
-  
-fun_fact: "Malas Mengkoding"
+```js
+const andika = {
+    pronouns: "He" | "Him",
+    location: "Sidoarjo, Jawa Timur 🇮🇩",
+    education: "Computer Engineering @ PENS",
+    
+    code: ["C++", "Dart", "JavaScript", "PHP", "Python"],
+    
+    technologies: {
+        mobile: ["Flutter", "Android"],
+        backend: ["Node.js", "Laravel", "Express"],
+        iot: ["ESP32", "Arduino", "Raspberry Pi"],
+        databases: ["MySQL", "Firebase", "MongoDB"],
+        tools: ["Docker", "Git", "VS Code"]
+    },
+    
+    currentFocus: "Building Smart IoT Solutions 🔌",
+    funFact: "Malas Mengkoding tapi tetap coding 😅"
+};
 ```
 
 <br clear="both"/>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🚀 Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⚡ Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,dart,js,php,python,html,css&theme=dark&perline=7" />
+</p>
 
-### 📱 Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🚀 Frameworks & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,laravel,express,firebase,mysql,docker,git,vscode&theme=dark&perline=9" />
+</p>
 
 ### 🔧 IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=5" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sensors-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+</p>
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+
+<!-- STATS CARDS - USING MULTIPLE RELIABLE ALTERNATIVES -->
+<a href="https://github.com/dikag0d">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dikag0d&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dikag0d&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+</a>
+
+<br/>
+
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=dikag0d&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideNums=c9d1d9&currStreakNum=ff6b6b&dates=8b949e&sideLabels=00d4ff" />
+
+<br/>
+
+<!-- STATS CARD ALTERNATIVE VERSION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dikag0d&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dikag0d&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dikag0d&theme=github_dark" />
+</picture>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🏆 Achievements
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dikag0d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dikag0d&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-
-</div>
-
-<div align="center">
-  
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikag0d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" />
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=dikag0d&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=dikag0d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
----
-
-## 📌 Featured Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/dikag0d/darjoconnect">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=darjoconnect&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=darjoconnect&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b" />
 </a>
 <a href="https://github.com/dikag0d/smartdoorlock">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=smartdoorlock&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=smartdoorlock&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b" />
 </a>
 
 <a href="https://github.com/dikag0d/esp32-project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=esp32-project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=esp32-project&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b" />
 </a>
 <a href="https://github.com/dikag0d/waterflow">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=waterflow&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dikag0d&repo=waterflow&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b" />
 </a>
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
   
@@ -149,58 +167,73 @@ fun_fact: "Malas Mengkoding"
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📈 Activity Graph
+## 📊 Weekly Coding Stats
 
 <div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikag0d&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+
+<!--START_SECTION:waka-->
+```text
+🌞 Morning    █████░░░░░░░░░░░░░░░░    20%
+🌆 Daytime    ████████░░░░░░░░░░░░░    35%
+🌃 Evening    ██████████░░░░░░░░░░░    40%
+🌙 Night      ██░░░░░░░░░░░░░░░░░░░    5%
+```
+<!--END_SECTION:waka-->
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 💭 Random Dev Quote
+## 🎵 Vibing To
 
 <div align="center">
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lxudhvwdjxbnq3gqxpbxqkmqfa&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d4ff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lxudhvwdjxbnq3gqxpbxqkmqfa&redirect=true)
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-<a href="https://www.instagram.com/shuuu.3gp/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://github.com/dikag0d" target="_blank">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:your-email@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://wa.me/62xxxxxxxxxx" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-
-</div>
-
----
+## 📈 Contribution Graph
 
 <div align="center">
   
-### 💖 Thanks for Visiting!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikag0d&custom_title=Andika's%20Contribution%20Graph&bg_color=0d1117&color=00d4ff&line=ff6b6b&point=00d4ff&area=true&hide_border=true&area_color=00d4ff" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+<div align="center">
+
+<!-- METRICS -->
+<img src="https://metrics.lecoq.io/dikag0d?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta&config.display=large" alt="Metrics" width="400">
+
+</div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+
+<div align="center">
+
+### 💻 Happy Coding! 🚀
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**"First, solve the problem. Then, write the code."**
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="28"/>
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" height="28"/>
+
+<br/>
+
+⭐️ From [dikag0d](https://github.com/dikag0d) with 💙
 
 </div>
