@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TEXT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%3C%2F%3E+Welcome+to+My+Digital+Space+%3C%2F%3E;%F0%9F%8E%AF+Building+the+Future+with+Code+%F0%9F%8E%AF;%F0%9F%94%A5+Computer+Engineering+%40+PENS+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3C%2F%3E+Hello%2C+I%27m+Andika+Nugraha+%3C%2F%3E;%F0%9F%9A%80+Turning+Ideas+Into+Systems+%F0%9F%9A%80;%F0%9F%94%A7+Computer+Engineering+%7C+IoT+%26+Networking+%F0%9F%94%A7" />
 </a>
 
 <br/>
