@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TEXT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3C%2F%3E+Hello%2C+I%27m+Andika+Nugraha+%3C%2F%3E;%F0%9F%9A%80+Turning+Ideas+Into+Systems+%F0%9F%9A%80;%F0%9F%94%A7+Computer+Engineering+%7C+IoT+%26+Networking+%F0%9F%94%A7" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3C%2F%3E+Hello%2C+I%27m+Andika+Nugraha+%3C%2F%3E;%F0%9F%94%A7+Computer+Engineering+%7C+IoT+%26+Networking+%F0%9F%94%A7" />
 </a>
 
 <br/>
@@ -191,9 +191,7 @@ const andika = {
 ## 🎵 Vibing To
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lxudhvwdjxbnq3gqxpbxqkmqfa&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d4ff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lxudhvwdjxbnq3gqxpbxqkmqfa&redirect=true)
-
+  <img src="assets/spotify.svg" width="500" />
 </div>
 
 <!-- ANIMATED DIVIDER -->
