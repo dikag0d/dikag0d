@@ -321,7 +321,7 @@
 
   <!-- Subtitle with typing effect -->
   <text x="450" y="195" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" fill="#00e5ff" font-weight="bold" letter-spacing="3" filter="url(#subtleGlow)">
-    ⚡ FULL STACK DEVELOPER • TIME TRAVELER ⚡
+    ⚡ FULL STACK DEVELOPER ⚡
     <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
   </text>
 
