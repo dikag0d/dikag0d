@@ -1,12 +1,9 @@
 <div align="center">
   
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Andika%20Nugraha&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=⚡%20IoT%20Developer%20•%20Flutter%20Enthusiast%20•%20Full%20Stack%20Explorer%20⚡&descAlignY=55&descSize=16"/>
-
-<!-- ANIMATED TEXT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3C%2F%3E+Hello%2C+I%27m+Andika+Nugraha+%3C%2F%3E;%F0%9F%94%A7+Computer+Engineering+%7C+IoT+%26+Networking+%F0%9F%94%A7" />
-</a>
+<div align="center">
+  <img src="assets/banner.svg" width="1000" />
+</div>
 
 <br/>
 
@@ -15,7 +12,7 @@
 <img src="https://img.shields.io/badge/Lives-Sidoarjo,%20Indonesia-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1a1b27"/>
 <img src="https://img.shields.io/badge/Status-Hacking%20the%20Future-00ff88?style=for-the-badge&logo=matrix&logoColor=white&labelColor=1a1b27"/>
 
-<br/><br/>
+<br/>
 
 <!-- SOCIAL BADGES WITH ANIMATION -->
 <a href="https://www.instagram.com/shuuu.3gp/"><img src="https://img.shields.io/badge/-@shuuu.3gp-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27"/></a>
@@ -205,26 +202,8 @@ const andika = {
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-<div align="center">
-
-<!-- METRICS -->
-<img src="https://metrics.lecoq.io/dikag0d?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta&config.display=large" alt="Metrics" width="400">
-
-</div>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
-
-<div align="center">
-
-### 💻 Happy Coding! 🚀
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-**"First, solve the problem. Then, write the code."**
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28"/>
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="28"/>
@@ -232,6 +211,6 @@ const andika = {
 
 <br/>
 
-⭐️ From [dikag0d](https://github.com/dikag0d) with 💙
+⭐️ From [dikag0d](https://github.com/dikag0d) 
 
 </div>
